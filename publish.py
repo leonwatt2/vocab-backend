@@ -1,4 +1,5 @@
 import utils
+import os
 
 config = utils.read_json("input/index.json")
 data_index = {
@@ -45,3 +46,8 @@ for c_id in categories.keys():
     })
     
 utils.write_json("data/index.json", data_index)
+
+os.system("git add data")
+os.system("git add input")
+os.system("git commit -m '[AUTO] Update data'")
+os.system("git push")

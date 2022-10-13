@@ -1,5 +1,3 @@
-from curses import raw
-import json
 import utils
 
 config = utils.read_json("input/index.json")

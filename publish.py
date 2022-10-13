@@ -22,7 +22,7 @@ for c_id in categories.keys():
         origin = c["origin"]
 
         entries = [{"target": e[target], "origin": e[origin]} for e in raw_entries]
-        path = f"data/{c_id}/{l_id}.json"
+        path = f"{c_id}/{l_id}.json"
 
         data_lists.append({
             "id": l_id,
@@ -31,7 +31,7 @@ for c_id in categories.keys():
             "hash": utils.hash(entries)
         })
 
-        utils.write_json(path, {
+        utils.write_json(f"data/{path}", {
             "entries": entries,
             "target": target,
             "origin": origin

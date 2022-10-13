@@ -1,1 +1,1 @@
-{"categories": [{"id": "swedish", "title": "Schwedisch", "origin": "de", "target": "sv", "lists": [{"id": "movies", "title": "Filmvokabeln", "path": "data/swedish/movies.json", "hash": "d547aa73240a1df07c28e6c3d94bd234dd45386cff2300331b21e9c7ad39a0aa"}]}]}
+{"categories": [{"id": "swedish", "title": "Schwedisch", "origin": "de", "target": "sv", "lists": [{"id": "movies", "title": "Filmvokabeln", "path": "swedish/movies.json", "hash": "d547aa73240a1df07c28e6c3d94bd234dd45386cff2300331b21e9c7ad39a0aa"}]}]}

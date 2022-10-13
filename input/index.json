@@ -1,0 +1,14 @@
+{
+    "categories": {
+        "swedish": {
+            "title": "Schwedisch",
+            "origin": "de",
+            "target": "sv",
+            "lists": {
+                "movies": {
+                    "title": "Filmvokabeln"
+                }
+            }
+        }
+    }
+}

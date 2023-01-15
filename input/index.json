@@ -9,6 +9,16 @@
                     "title": "Filmvokabeln"
                 }
             }
+        },
+        "letzebuergesch": {
+            "title": "Lëtzebuergesch",
+            "origin": "de",
+            "target": "lb",
+            "lists": {
+                "introduce": {
+                    "title": "Sech virstellen"
+                }
+            }
         }
     }
 }

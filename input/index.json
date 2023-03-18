@@ -10,6 +10,16 @@
                 }
             }
         },
+        "french": {
+            "title": "Französisch",
+            "origin": "de",
+            "target": "fr",
+            "lists": {
+                "adjectives": {
+                    "title": "Adjektive"
+                }
+            }
+        },
         "letzebuergesch": {
             "title": "Lëtzebuergesch",
             "origin": "de",

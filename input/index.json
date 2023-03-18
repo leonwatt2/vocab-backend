@@ -17,6 +17,9 @@
             "lists": {
                 "adjectives": {
                     "title": "Adjektive"
+                },
+                "verbs": {
+                    "title": "Verben"
                 }
             }
         },

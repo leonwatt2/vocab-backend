@@ -35,6 +35,16 @@
                     "title": "Nationalitéit an Sprooche"
                 }
             }
+        },
+        "demo": {
+            "title": "Demo",
+            "origin": "de",
+            "target": "test",
+            "lists": {
+                "short": {
+                    "title": "Kurze Liste"
+                }
+            }
         }
     }
 }

@@ -20,6 +20,9 @@
                 },
                 "verbs": {
                     "title": "Verben"
+                },
+                "duolingo": {
+                    "title": "Duolingo"
                 }
             }
         },

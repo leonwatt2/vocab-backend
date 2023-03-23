@@ -7,6 +7,12 @@
             "lists": {
                 "movies": {
                     "title": "Allt som blir kvar"
+                },
+                "duolingo": {
+                    "title": "Duolingo"
+                },
+                "perfect": {
+                    "title": "Perfekt"
                 }
             }
         },

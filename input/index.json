@@ -22,6 +22,9 @@
                 },
                 "mat": {
                     "title": "Mat"
+                },
+                "trafik": {
+                    "title": "Trafik"
                 }
             }
         },

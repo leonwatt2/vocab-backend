@@ -31,6 +31,16 @@
                 }
             }
         },
+        "nederlands": {
+            "title": "Niederländisch",
+            "origin": "de",
+            "target": "nl",
+            "lists": {
+                "mensen": {
+                    "title": "Mensen"
+                }
+            }
+        },
         "french": {
             "title": "Französisch",
             "origin": "de",

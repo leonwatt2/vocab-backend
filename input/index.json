@@ -41,6 +41,12 @@
                 },
                 "uiterlijk": {
                     "title": "Het uiterlijk"
+                },
+                "gezondheid": {
+                    "title": "De gezondheid"
+                },
+                "huis": {
+                    "title": "Het huis"
                 }
             }
         },

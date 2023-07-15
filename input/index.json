@@ -37,7 +37,10 @@
             "target": "nl",
             "lists": {
                 "mensen": {
-                    "title": "Mensen"
+                    "title": "De mens"
+                },
+                "uiterlijk": {
+                    "title": "Het uiterlijk"
                 }
             }
         },

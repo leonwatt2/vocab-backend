@@ -47,6 +47,9 @@
                 },
                 "huis": {
                     "title": "Het huis"
+                },
+                "keuken": {
+                    "title": "De keuken"
                 }
             }
         },

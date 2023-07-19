@@ -50,6 +50,9 @@
                 },
                 "keuken": {
                     "title": "De keuken"
+                },
+                "gereedschapskist": {
+                    "title": "De gereedschapskist"
                 }
             }
         },

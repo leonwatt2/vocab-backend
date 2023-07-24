@@ -56,6 +56,9 @@
                 },
                 "tuin": {
                     "title": "De tuin"
+                },
+                "diensten": {
+                    "title": "De diensten"
                 }
             }
         },

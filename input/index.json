@@ -59,6 +59,9 @@
                 },
                 "diensten": {
                     "title": "De diensten"
+                },
+                "winkel": {
+                    "title": "In de winkel"
                 }
             }
         },

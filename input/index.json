@@ -62,6 +62,9 @@
                 },
                 "winkel": {
                     "title": "In de winkel"
+                },
+                "levensmiddelen": {
+                    "title": "De levensmiddelen"
                 }
             }
         },

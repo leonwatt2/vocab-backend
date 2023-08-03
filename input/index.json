@@ -74,6 +74,9 @@
                 },
                 "studie": {
                     "title": "De studie"
+                },
+                "werk": {
+                    "title": "Het werk"
                 }
             }
         },

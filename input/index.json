@@ -96,6 +96,9 @@
                 },
                 "duolingo": {
                     "title": "Duolingo"
+                },
+                "dictionaire": {
+                    "title": "Bildwörterbuch"
                 }
             }
         },

@@ -80,6 +80,9 @@
                 },
                 "verkeer": {
                     "title": "Het verkeer"
+                },
+                "sport": {
+                    "title": "De sport"
                 }
             }
         },

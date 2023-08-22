@@ -83,6 +83,12 @@
                 },
                 "sport": {
                     "title": "De sport"
+                },
+                "muziek": {
+                    "title": "De muziek"
+                },
+                "vrijetijd": {
+                    "title": "De vrije tijd"
                 }
             }
         },

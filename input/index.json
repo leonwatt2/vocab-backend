@@ -92,6 +92,12 @@
                 },
                 "vrijetijd": {
                     "title": "De vrije tijd"
+                },
+                "wereld": {
+                    "title": "De wereld"
+                },
+                "dieren": {
+                    "title": "De dieren"
                 }
             }
         },

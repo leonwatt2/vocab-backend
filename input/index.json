@@ -126,6 +126,9 @@
                 },
                 "personnes": {
                     "title": "Personnes"
+                },
+                "manger": {
+                    "title": "Boire et manger"
                 }
             }
         },

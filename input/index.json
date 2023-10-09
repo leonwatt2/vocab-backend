@@ -123,6 +123,9 @@
                 },
                 "ville": {
                     "title": "En ville"
+                },
+                "personnes": {
+                    "title": "Personnes"
                 }
             }
         },

@@ -135,6 +135,9 @@
                 },
                 "maison": {
                     "title": "À la maison"
+                },
+                "urgences": {
+                    "title": "Urgences"
                 }
             }
         },

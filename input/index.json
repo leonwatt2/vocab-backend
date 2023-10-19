@@ -132,6 +132,9 @@
                 },
                 "loisirs": {
                     "title": "Loisirs"
+                },
+                "maison": {
+                    "title": "À la maison"
                 }
             }
         },

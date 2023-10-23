@@ -141,6 +141,9 @@
                 },
                 "profession": {
                     "title": "Éducation et profession"
+                },
+                "communication": {
+                    "title": "Communication"
                 }
             }
         },

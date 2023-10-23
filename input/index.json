@@ -138,6 +138,9 @@
                 },
                 "urgences": {
                     "title": "Urgences"
+                },
+                "profession": {
+                    "title": "Éducation et profession"
                 }
             }
         },

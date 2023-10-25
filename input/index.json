@@ -154,6 +154,12 @@
                 },
                 "enroute": {
                     "title": "En route"
+                },
+                "sport": {
+                    "title": "Sport"
+                },
+                "corps": {
+                    "title": "Corps et santé"
                 }
             }
         },

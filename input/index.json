@@ -120,7 +120,14 @@
                 },
                 "petitprince": {
                     "title": "Le petit prince"
-                },
+                }
+            }
+        },
+        "french-bildwoerterbuch": {
+            "title": "Französisch: Bildwörterbuch",
+            "origin": "de",
+            "target": "fr",
+            "lists": {
                 "ville": {
                     "title": "En ville"
                 },
@@ -144,6 +151,9 @@
                 },
                 "communication": {
                     "title": "Communication"
+                },
+                "enroute": {
+                    "title": "En route"
                 }
             }
         },

@@ -160,6 +160,12 @@
                 },
                 "corps": {
                     "title": "Corps et santé"
+                },
+                "nature": {
+                    "title": "Terre et nature"
+                },
+                "animaux": {
+                    "title": "Animaux"
                 }
             }
         },
